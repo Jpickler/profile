@@ -1,0 +1,42 @@
+*{
+  background-color:pink;
+}
+
+nav{
+  display: block;
+  
+}
+
+h1{
+  font-size: 32px;
+}
+
+h2{
+  background-color: crimson;
+  text-align:center;
+  font-size: 28px;
+
+}
+
+h3{
+  font-size: 24px;
+}
+p{
+  font-size: 20px;
+}
+ol{
+  font-size: 20px;
+}
+
+ul{
+  font-size: 20px;
+}
+
+img{
+  border: 2px solid white;
+}
+
+
+section{
+  border: 3px solid black;
+}
